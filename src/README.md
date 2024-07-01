@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Ron
-heroImage: http://sfqa2yauh.hd-bkt.clouddn.com/favicon.ico
+heroImage: https://mp-b74a8f22-47b8-4567-8e02-57b47e66c25c.cdn.bspapp.com/image/favicon.ico
 heroText: Ron Blog
 heroFullScreen: true
 tagline: 走着走着天就亮了
