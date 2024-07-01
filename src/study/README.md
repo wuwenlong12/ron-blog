@@ -1,5 +1,5 @@
 ---
-title: 生活
+title: Study
 index: false
 icon: laptop-code
 category:
