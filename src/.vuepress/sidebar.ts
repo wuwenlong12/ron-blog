@@ -44,7 +44,7 @@ export default sidebar({
   ],
   "/demo/": [
     {
-      text: "生活",
+      text: "日常",
       icon: "laptop-code",
       prefix: "/demo/",
       children: "structure",

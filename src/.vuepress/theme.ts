@@ -4,18 +4,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "http://www.sxkjxy.cc",
 
   author: {
     name: "Mr.Ron",
-    url: "https://mister-hope.com",
+    url: "https://github.com/wuwenlong12/ron-blog",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://mp-b74a8f22-47b8-4567-8e02-57b47e66c25c.cdn.bspapp.com/image/favicon.ico",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "wuwenlong12/",
 
   docsDir: "src",
 
@@ -26,7 +26,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "Mr.Ron",
   displayFooter: true,
 
   // 博客相关
@@ -35,13 +35,13 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
 
-      Email: "mailto:info@example.com",
+      Email: "mailto:773314621@qq.com",
   
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/wuwenlong12",
  
-      QQ: "https://example.com",
+      QQ: "http://www.sxkjxy.cc/about/",
    
-      Wechat: "https://example.com",
+      Wechat: "http://www.sxkjxy.cc/about/",
 
  
   
