@@ -1,4 +1,14 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [juejin.cn](https://juejin.cn/post/7323883238896058387?searchId=2024100416513608ABBDB1D91583FC1FB6)
+---
+icon: pen-to-square
+date: 2022-01-11
+category:
+  - Node.js
+tag:
+  - Node.js
+  - Express
+  - 大文件文件上传
+---
+# 大文件上传优化切片断点续传秒传前后端demo
 
 ### 大文件上传（具体代码在最后）
 

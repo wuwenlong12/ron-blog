@@ -1,5 +1,14 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.jianshu.com](https://www.jianshu.com/p/978628a15027)
-
+---
+icon: pen-to-square
+date: 2022-01-11
+category:
+  - Node.js
+tag:
+  - Node.js
+  - Express
+  - TypeScript
+---
+# express +TS 环境搭建
 ### 1. 前言
 
 作为前端开发人员而言，`ts`已经成为了一项必不可少的技能，类型检查可以帮助我们再开发时避免一些不必要的 bug，而且`ts`支持的类和装饰器等语法也更逼近后端语言，更适合服务器的开发。
